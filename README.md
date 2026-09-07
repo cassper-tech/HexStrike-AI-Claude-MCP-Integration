@@ -82,19 +82,6 @@ Exit code: `0`
 
 These results demonstrate that the MCP integration was operational and that HexStrike could successfully execute an authorized security-tool environment command.
 
-**Screenshots**
-
-Claude Desktop — HexStrike MCP Running
-![Claude Desktop HexStrike MCP](Screenshots/01-claude-desktop-mcp-running.png)
-HexStrike MCP Client Connection
-![HexStrike MCP Client](Screenshots/02-hexstrike-mcp-client-connected.png)
-HexStrike AI Server
-![HexStrike AI Server](Screenshots/03-hexstrike-ai-server-running.png)
-API Health Validation
-![HexStrike API Health](Screenshots/04-hexstrike-api-health.png)
-Security Tool Execution Validation
-![Nmap Execution Validation](Screenshots/05-nmap-command-validation.png)
-> If your existing screenshot filenames differ, rename the files to the names above or update the image paths accordingly.
 
 Documentation
 Architecture
